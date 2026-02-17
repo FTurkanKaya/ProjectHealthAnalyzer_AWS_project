@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f36fbcd-8123-40a1-a1e3-3a51d66b09a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lambdaDiscovery_to_SQS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/discovered_repos_20260205.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/repo_summary_20260205.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdaRepoDiscovery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_projectHealthAnalyzer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discovery_20260206151404.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discovery_20260206151404.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
